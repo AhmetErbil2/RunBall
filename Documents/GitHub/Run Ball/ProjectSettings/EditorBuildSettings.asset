@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c586f415567b041499db174d45348671
+  - enabled: 1
+    path: "Assets/Scenes/OyunEkran\u0131.unity"
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: "Assets/Scenes/\xC7\u0131k\u0131\u015F Ekran\u0131.unity"
+    guid: 17a513ecaed6b0443a35ad9459dcbda8
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c6f458658b2babd468a362c4e92f2b78, type: 2}
